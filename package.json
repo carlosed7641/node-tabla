@@ -1,0 +1,17 @@
+{
+  "name": "bases-node",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar con archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Castro",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0"
+  }
+}
