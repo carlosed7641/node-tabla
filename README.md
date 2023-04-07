@@ -1,5 +1,5 @@
 # Notas:
-Este es un porgrama para generar tablas de multiplicar en archivos de texto
+Este es un programa para generar tablas de multiplicar en archivos de texto
 
 ```
 Options:
